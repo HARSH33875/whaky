@@ -1,0 +1,15 @@
+name: rural_health_app
+description: A new Flutter project.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Adjust based on your Flutter version
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.15.0 # HTTP dependency
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
